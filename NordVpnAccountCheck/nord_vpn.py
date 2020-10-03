@@ -47,7 +47,7 @@ def Check(dr):
         return (tos,"")
 
 
-data = pd.read_excel("/home/goku/Devs/TensorFlow/Learn/Nordvpnshit.xlsx")
+data = pd.read_excel(input("Enter the path of accountlist.xlsx"))
 state_file = "state.txt"
 fresh_account_file = "freshlist.txt"
 
