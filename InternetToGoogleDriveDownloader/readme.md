@@ -1,6 +1,6 @@
 # Internet to google drive downloader
 
-Ever wanted to upload a file from internet directly into your google drive directly? This script is for you! It is simple to use,and very intuitive.
+Ever wanted to upload a file from internet directly into your google drive? This script is for you! It is simple to use,and very intuitive.
 
 ### Instructions
 
